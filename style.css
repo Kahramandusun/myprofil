@@ -1,0 +1,71 @@
+
+h1{
+	color: whitesmoke;
+	background-color: black;
+  font-family: cursive;
+}
+p{
+	font-size: 25px;
+	line-height: 6;
+}
+a{
+	font-size: 42px;
+
+}
+body{
+	background-color: #6e8cb5;
+}
+@media (max-width 960px) {
+	.container {
+		width: 700px;
+				background-color: white;
+				margin: 20px 0;
+	}
+}
+
+.card-white 4 {
+background-color: white;
+padding: 20px 30px;
+color: whitesmoke;
+border-radius: 0px;
+text-align: center;
+margin: 20px 0;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+  transition: 0.3s;
+  background-color: white;
+  border-radius: 0px;
+  width: 820px;
+  height: 150px;
+  text-align: center;
+  margin: 20px 300px;
+
+}
+.container {
+  padding: 2px 15px;
+  width: 1200px;
+  margin:100px auto;
+
+}
+@media (max-width 960px) {
+	.container {
+		width: 700px;
+				background-color: white;
+				margin: 20px 0;
+	}
+}
+.card-ozgur {
+  transition: 0.3s;
+  background-color: white;
+  border-radius: 0px;
+  width: 420px;
+  height: 300px;
+  text-align: center;
+  margin: 20px 470px;
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+   }
+.img {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+  border-radius: 50%;
+ }
