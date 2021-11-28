@@ -14,6 +14,14 @@ a{
 }
 body{
 	background-color: whitesmoke;
+}
+@media (max-width 960px) {
+	.container {
+		width: 700px;
+				background-color: white;
+				margin: 20px 0;
+	}
+}
 .card-white 4 {
 	background-color: white;
 	padding: 20px 30px;
